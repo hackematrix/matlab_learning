@@ -1,0 +1,2 @@
+Plot3D[x*y, {x, -10, 10}, {y, -10, 10}, PlotRange -> All, 
+ AxesLabel -> {"x", "y", "z"}, PlotLabel -> "Surface plot of z = xy"]
